@@ -3,7 +3,7 @@
  - 💻 Hoje trabalho com Front-end
  - 📚 Estudando: Html/Css/Js/Ts
  - 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
- - 👨 Ele/Dele
+ - 👨 Ele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
