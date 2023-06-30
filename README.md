@@ -1,4 +1,11 @@
-## Olá! Eu sou o Hyury Alexandre.
+<div align="center">
+    <img align="center" src="https://www.freepnglogos.com/uploads/welcome-png/welcome-vdperre-sports-regions-15.png" width="600">
+  </a>
+</div>
+
+<br>
+
+    Olá! Eu sou o Hyury Alexandre.
 
  - 💻 Hoje trabalho com Front-end
  - 📚 Estudando: Html/Css/Js/Ts
