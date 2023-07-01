@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src="https://www.freepnglogos.com/uploads/welcome-png/welcome-vdperre-sports-regions-15.png" width="300">
+    <img align="center" src="https://www.pngkit.com/png/full/138-1383641_winery-technology-and-winemaking-welcome-banner-background.png" width="300">
 </div>
 
 <br>
