@@ -79,10 +79,10 @@ Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir co
 ##
 <b>Além da programação...</b>
 
-• Meu tempo vago gosto de Jogar no PC.
-• Gosto de jogos do genero MMORPG, terror, tiro e Outros.
-• Adoro organização, tudo que faço eu procuro organizar da melhor forma possivel.
-• Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa.
+- Meu tempo vago gosto de Jogar no PC.
+- Gosto de jogos do genero MMORPG, terror, tiro e Outros.
+- Adoro organização, tudo que faço eu procuro organizar da melhor forma possivel.
+- Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa.
   
 
   - <a href='https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675'>Código limpo: Habilidades práticas do Agile Software</a>
