@@ -18,7 +18,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
     
-  
+  <div>
   <h1 align="center">⭐️ Redes Sociais</h1>
     <a href = "mailto: hyuryoficial@gmail.com">
       <img width="30" src="gmail.svg">
