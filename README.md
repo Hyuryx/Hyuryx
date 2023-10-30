@@ -2,7 +2,7 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hyuryx&show_icons=true&theme=transparent"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hyuryx&show_icons=true&theme=vision-friendly-dark"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyuryx&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
