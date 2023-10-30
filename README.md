@@ -8,7 +8,7 @@
 
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">⭐️ Hard Skills </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
    </div>
     
   
-  <h1 align="center">⭐️ Redes Sociais</h1>
+  <h1 align="center">⭐️ Redes Sociais</h1><br>
     <a href = "mailto: hyuryoficial@gmail.com">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png">
     </a>
