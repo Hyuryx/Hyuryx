@@ -32,7 +32,7 @@
       <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png](https://icon-icons.com/pt/icone/social-media-instagram/113804">
+      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png">
     </a>
 </div>
   
