@@ -23,7 +23,7 @@
   
   <h1 align="center">⭐️ Redes Sociais</h1>
     <a href = "mailto: hyuryoficial@gmail.com">
-      <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png">
+      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png">
     </a>
     <a href = "https://www.linkedin.com/in/hyury-alexandre-8a6a06117/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
