@@ -19,22 +19,6 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
    </div>
     
-  
-  <h1 align="center">⭐️ Redes Sociais</h1><br>
-    <a href = "mailto: hyuryoficial@gmail.com">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png">
-    </a>
-    <a href = "https://www.linkedin.com/in/hyury-alexandre-8a6a06117/">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png">
-    </a>
-    <a href = "https://www.instagram.com/hyuryx/">
-      <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png">
-    </a>
-</div>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 
     Olá! Eu sou o Hyury Alexandre.
     
