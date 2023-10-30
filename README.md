@@ -26,7 +26,7 @@
       <img width="30" src="gmail.svg](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png">
     </a>
     <a href = "https://www.linkedin.com/in/hyury-alexandre-8a6a06117/">
-      <img width="25" src="linkedin.svg](https://cdn-icons-png.flaticon.com/256/174/174857.png">
+      <img width="25" src="https://cdn-icons-png.flaticon.com/256/174/174857.png](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">
     </a>
     <a href = "https://www.instagram.com/hyuryx/">
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png">
