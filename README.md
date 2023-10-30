@@ -19,6 +19,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
    </div>
     
+<br><br>
 
     Olá! Eu sou o Hyury Alexandre.
     
