@@ -71,7 +71,7 @@ Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir co
     </tr>
     <tr>
       <td><img src="https://www.noticiasgazin.com.br/wp-content/uploads/2019/08/PC.gif)" width="300px" height="170px"></td>
-      <td><img src="https://thumbs.gfycat.com/ThankfulWellmadeHogget-size_restricted.gif" width="300px" height="170px"> </td>
+      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV4aWE5a2pkZHd5cXMyYml0YWpiOGNzZzZ1OWI4eTY4bTVpdWV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gQt4FJ6gd6DUGFW/giphy.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
