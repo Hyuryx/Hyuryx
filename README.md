@@ -10,7 +10,8 @@
 <div  align="center"> 
   <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">⭐️ Hard Skills </h1>
+    ## ⭐️ Hard Skills </h1>
+    <h1 align="center">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -98,26 +99,4 @@ Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir co
       <td><img src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
-</div>
-
-## ⭐️ Future Hard Skills 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=Hyuryx&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-<div align="right">
-    
-    
-    
-  <div style="display: inline_block"><br>
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <!-- Csharp --> <img src="https://img.shields.io/badge/csharp-980098?style=for-the-badge&logo=csharp&logoColor=white">
-  <!-- Node.js --> <img src="https://img.shields.io/badge/node.js-323232?style=for-the-badge&logo=node.js&logoColor=green">
-  <!-- Android --> <img src="https://img.shields.io/badge/android-98CB00?style=for-the-badge&logo=android&logoColor=blue">
-  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  
-  
-  
-   
-  </div>
-
-  
-  <br>
 </div>
