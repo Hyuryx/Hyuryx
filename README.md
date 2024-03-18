@@ -18,7 +18,6 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/lua.svg">
-    <img align="center" height="30" width="40" alt="lua-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
    </div>
     
 <br><br>
