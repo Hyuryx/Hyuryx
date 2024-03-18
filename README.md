@@ -25,10 +25,10 @@
     Olá! Eu sou o Hyury Alexandre.
     
    
- - 📚 Estudando: C/C#/C++
+ - 📚 Estudando: Lua/C#/C++
  - 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
  - 👨 Pronouns: Ele/Dele
- - 🛠 
+ - 🛠 Software Developer
 
 
  
