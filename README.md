@@ -28,6 +28,7 @@
  - 📚 Estudando: C/C#/C++
  - 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
  - 👨 Pronouns: Ele/Dele
+ - 🛠 
 
 
  
@@ -51,7 +52,7 @@
   <b>"A vida não oferece promessas nem garantias, apenas possibilidades e oportunidades."</b>
 </div><br>
 
-Me chamo <b>Hyury</b> sou estudante de <b>Analise e Desenvolvimento de Sistemas</b> em EAD e estou cursando 2º ano (3º período) com previsão de formartura para <b>julho/2024.</b> 
+Me chamo <b>Hyury</b> sou estudante de <b>Analise e Desenvolvimento de Sistemas</b> em EAD e estou cursando 3º ano (5º período) com previsão de formartura para <b>julho/2024.</b> 
 
  
 Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir conhecimento e experiência na área. Tenho cursos voltados para área de programação, tais como: <b>Lógica de programação e Front-End.</b>   
