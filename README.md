@@ -53,7 +53,7 @@
 Me chamo <b>Hyury</b> sou Formado em <b>Analise e Desenvolvimento de Sistemas</b> em EAD.</b> 
 
  
-Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir conhecimento e experiência na área. Tenho cursos voltados para área de programação, tais como: <b>Lógica de programação, C#, C++ e Lua.</b>   
+Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir conhecimento e experiência na área. Tenho cursos voltados para área de programação, tais como: <b>Lógica de programação, Python, JavaScript e TypeScript.</b>   
 
 
 
@@ -68,7 +68,7 @@ Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir co
   <table>
     <tr>
       <td><b>🎓Analista de Sistemas</b></td>
-      <td><b>💻 Desenvolvedor Front-end</b></td>
+      <td><b>💻 Desenvolvedor Software</b></td>
     </tr>
     <tr>
       <td><img src="https://www.noticiasgazin.com.br/wp-content/uploads/2019/08/PC.gif)" width="300px" height="170px"></td>
