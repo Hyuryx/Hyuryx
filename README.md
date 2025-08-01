@@ -50,7 +50,7 @@
   <b>"A vida não oferece promessas nem garantias, apenas possibilidades e oportunidades."</b>
 </div><br>
 
-Me chamo <b>Hyury</b> sou estudante de <b>Analise e Desenvolvimento de Sistemas</b> em EAD e estou cursando 3º ano (5º período) com previsão de formartura para <b>julho/2024.</b> 
+Me chamo <b>Hyury</b> sou Formado em <b>Analise e Desenvolvimento de Sistemas</b> em EAD.</b> 
 
  
 Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir conhecimento e experiência na área. Tenho cursos voltados para área de programação, tais como: <b>Lógica de programação, C#, C++ e Lua.</b>   
