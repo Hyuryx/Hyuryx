@@ -94,7 +94,7 @@ Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir co
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="300px" height="170px"> </td>   
+      <td><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300px" height="170px"> </td>   
       <td><img src="https://miro.medium.com/v2/resize:fit:1000/1*Q5_t-R0xRs07wW1Kf8rCSw.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
