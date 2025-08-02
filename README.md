@@ -71,7 +71,7 @@ Atualmente busco uma colocação no mercado de trabalho em busca de adiquirir co
       <td><b>💻 Desenvolvedor Software</b></td>
     </tr>
     <tr>
-      <td><img src="https://www.noticiasgazin.com.br/wp-content/uploads/2019/08/PC.gif" width="300px" height="170px"></td>
+      <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300px" height="170px"></td>
       <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXV4aWE5a2pkZHd5cXMyYml0YWpiOGNzZzZ1OWI4eTY4bTVpdWV1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gQt4FJ6gd6DUGFW/giphy.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
