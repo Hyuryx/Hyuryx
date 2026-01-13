@@ -1,9 +1,11 @@
 ## Ola, Seja bem Vindo !!!
 
-<div>
+<div align="center">
+  <img width="100%" src="https://i.ytimg.com/vi/FwLQ-J-Qw6g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBw9bKQOYZUasMA6KD7FWfRekRB6w"/>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hyuryx&show_icons=true&theme=vision-friendly-dark"/>
-  <img align="right" height="180em" src="https://i.ytimg.com/vi/FwLQ-J-Qw6g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBw9bKQOYZUasMA6KD7FWfRekRB6w"/>
+  <br/><br/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyuryx&show_icons=true&theme=vision-friendly-dark"/>
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
