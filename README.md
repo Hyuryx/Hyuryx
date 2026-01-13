@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="100%" src="https://i.ytimg.com/vi/FwLQ-J-Qw6g/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBw9bKQOYZUasMA6KD7FWfRekRB6w"/>
-  <br/><br/>
+  <br/>
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
